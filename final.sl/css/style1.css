@@ -1,4 +1,11 @@
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
+.row{
+	margin-right: auto !important;
+    margin-left: auto !important;
+    width: 90%;
+}
+.icon-top{
+	width: 100% !important;
+}
+.nav-bar{
+	width: 100% !important;
 }
