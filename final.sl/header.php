@@ -9,6 +9,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet"> 
 	  <link rel="stylesheet" type="text/css" href="css/slick.css"/>
   <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
+  <link rel="stylesheet" href="css/style1.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
